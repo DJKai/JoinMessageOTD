@@ -1,0 +1,6 @@
+name: JoinMessageOTD
+author: DJKaiMc
+description: Sets a Join message
+version: 1.0.0
+main: JoinMessageOTD\Main
+api: 1.2.0
